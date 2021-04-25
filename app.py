@@ -3,4 +3,4 @@ application = Flask(__name__)
 
 @application.route("/")
 def hello_world():
-    return 'This is my first app in Amazon'
+    return 'This is my first app'
